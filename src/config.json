@@ -1,6 +1,6 @@
 {
   "site": {
-    "url": "https://drowsyindra.github.io",
+    "url": "https://stellaryu-2.github.io",
     "title": "博客",
     "description": "这是一个有理想的人走过的漫长道路",
     "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
@@ -9,12 +9,12 @@
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
+    "name": "Yuqin",
     "twitterId": "@lxchapu",
     "avatar": "/img/avatar.jpg"
   },
   "hero": {
-    "name": "Kunyi",
+    "name": "Yuqin",
     "bio": "一个为理想痴狂实干的疯子",
     "description": "理想是追随稚晖君,欢迎一同学习",
     "socials": [
