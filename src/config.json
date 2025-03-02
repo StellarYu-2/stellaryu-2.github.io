@@ -11,7 +11,7 @@
   "author": {
     "name": "Yuqin",
     "twitterId": "@lxchapu",
-    "avatar": "/img/avatar.jpg"
+    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
     "name": "Yuqin",
@@ -65,8 +65,8 @@
       { "light": "#F55555", "dark": "#FCCF31" }
     ],
     "bg": {
-      "primary": { "light": "#fffff0", "dark": "#1c1c1e" },
-      "secondary": { "light": "#EEEEE0", "dark": "#27272a" }
+      "primary": { "light": "#ffffff", "dark": "#1c1c1e" },
+      "secondary": { "light": "#f4f4f5", "dark": "#27272a" }
     },
     "text": {
       "primary": { "light": "#373a3c", "dark": "#ffffff" },
